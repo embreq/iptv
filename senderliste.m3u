@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Deutschland" tvg-logo="https://github.com/embreq/iptv/blob/main/logos/tv/de/daserstehd.png",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Deutschland" tvg-logo="https://github.com/embreq/iptv/blob/main/logos/tv/de/daserstehd.png/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Deutschland" tvg-logo="https://github.com/embreq/iptv/blob/main/logos/tv/de/daserstehd.png/swrhd.png",SWR Baden-Württemberg HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8

@@ -31,7 +31,7 @@ Legales IPTV, als Alternative zu DVB-C / DVB-T2
 | 6   | one HD | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/onehd.png"/> | BRD| - |
 | 7   | ZDFneo HD | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfneohd.png"/> | BRD| - |
 | 8   | ARD Alpha Bildungskanal | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/ardalpha.png"/> | BRD| - |
-| 9   | ZDFinfo | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfinfo.png"/> | BRD| - |
+| 9   | ZDFinfo | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfinfohd.png"/> | BRD| - |
 |10   | KiKA | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/kika.png"/> | BRD| - |
 |11   | WDR HD | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/wdrhd.png"/> | BRD| - |
 |12   | MDR HD (Sachsen-Anhalt)| <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/mdrhd.png"/> | BRD| - |

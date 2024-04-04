@@ -25,7 +25,7 @@ Legales IPTV, als Alternative zu DVB-C / DVB-T2
 |:---:|:----------------:|:-----:|:----:|:------:|
 | 1   | Das Erste HD     | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/daserstehd.png"/> | BRD| - |
 | 2   | ZDF HD     | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfhd.png"/> | BRD| - |
-| 3   | SWR Baden-Württemberg HD | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfhd.png"/> | BRD| - |
+| 3   | SWR Baden-Württemberg HD | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/swrhd.png"/> | BRD| - |
 | 4   | 3sat | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/3sat.png"/> | BRD| - |
 | 5   | arte.de HD| <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/artehd.png"/> | BRD| - |
 | 6   | one HD | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/onehd.png"/> | BRD| - |

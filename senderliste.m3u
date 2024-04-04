@@ -9,11 +9,21 @@ https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1  tvg-name="ARTE HD" tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/artehd.png" group-title="TV Deutschland" ,ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1  tvg-name="one HD" tvg-id="One.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/onehd.png" group-title="Deutschland" radio="",one HD
+#EXTINF:-1  tvg-name="one HD" tvg-id="One.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/onehd.png" group-title="TV Deutschland" radio="",one HD
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1  tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfneohd.png" group-title="Deutschland",ZDFneo HD
+#EXTINF:-1  tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfneohd.png" group-title="TV Deutschland",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1  tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/ardalpha.png" group-title="Deutschland",ARD-alpha
+#EXTINF:-1  tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/ardalpha.png" group-title="TV Deutschland",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1  tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfinfohd.png" group-title="Deutschland",ZDFinfo HD
+#EXTINF:-1  tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfinfohd.png" group-title="TV Deutschland",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1  tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/kika.png" group-title="TV Deutschland",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1  tvg-name="WDR HD" tvg-id="WDRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/wdrhd.png" group-title="TV Deutschland",WDR HD
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1  tvg-name="MDR Sachsen-Anhalt HD" tvg-id="MDRS-Anhalt.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/mdrhd.png" group-title="TV Deutschland",MDR Sachsen-Anhalt HD
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1  tvg-name="NDR Schleswig-Holstein HD" tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/ndrhd.png" group-title="TV Deutschland",NDR Schleswig-Holstein HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1  tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/brhd.png" group-title="TV Deutschland",BR Fernsehen Süd HD
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8

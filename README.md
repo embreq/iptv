@@ -24,3 +24,4 @@ Legales IPTV, als Alternative zu DVB-C / DVB-T2
 | #   | Sender           | Logo  | GeoBlock | Bemerkungen |
 |:---:|:----------------:|:-----:|:----:|:------:|
 | 1   | Das Erste HD     | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/daserstehd.png"/> | BRD| - |
+| 2   | ZDF HD     | <img height="20" src="https://raw.githubusercontent.com/embreq/iptv/main/logos/tv/de/zdfhd.png"/> | BRD| - |
